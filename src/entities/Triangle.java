@@ -12,4 +12,4 @@ public class Triangle {
 		return result;
 	}
 
-}
+}//Criado o Formulario
