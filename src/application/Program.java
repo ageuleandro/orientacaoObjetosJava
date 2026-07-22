@@ -32,5 +32,9 @@ public class Program {
 			System.out.println("Larger area: Y");
 		}
 		sc.close();
+<<<<<<< HEAD
 	} // Exmplos do curso de Java e Orientação a Objetos
+=======
+	}
+>>>>>>> ad9604d4a0ed7ca9109389363f45b0bf194e4424
 }
